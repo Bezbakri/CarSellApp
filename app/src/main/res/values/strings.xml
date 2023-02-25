@@ -1,9 +1,11 @@
 <resources>
     <string name="app_name">car_selling_gacha</string>
     <!-- Strings related to login -->
-    <string name="prompt_email">Email</string>
+    <string name="start_text">Welcome to the Cargo</string>
+    <string name="type_username_textview">Type in you name!</string>
+    <string name="prompt_email">Your name</string>
     <string name="prompt_password">Password</string>
-    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_continue">Continue</string>
     <string name="action_sign_in_short">Sign in</string>
     <string name="welcome">"Welcome !"</string>
     <string name="invalid_username">Not a valid username</string>
